@@ -1,3 +1,2 @@
-# Efficiently-Serving-LLMs
+# [Efficiently-Serving-LLMs](https://learn.deeplearning.ai/courses/efficiently-serving-llms/lesson/hca7h/introduction)
 
-https://learn.deeplearning.ai/courses/efficiently-serving-llms/lesson/hca7h/introduction
